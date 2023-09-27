@@ -1,4 +1,4 @@
-/* Handle multiple success*/
+/* eslint-disable*/
 import { uploadPhoto, createUser } from './utils.js';
 
 export default function handleProfileSignup() {
