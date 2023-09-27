@@ -1,4 +1,4 @@
-/* Handle multiple success */
+/* Handle multiple success*/
 import { uploadPhoto, createUser } from './utils.js';
 
 export default function handleProfileSignup() {
