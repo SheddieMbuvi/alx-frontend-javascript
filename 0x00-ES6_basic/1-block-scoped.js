@@ -3,8 +3,10 @@ export default function taskBlock(trueOrFalse) {
   const task2 = true;
 
   if (trueOrFalse) {
-    let task = true;
-    let task2 = false;
+    // next-line-disabled
+    const task = true;
+    // next-line-disabled
+    const task2 = false;
   }
 
   return [task, task2];
